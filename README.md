@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash250604&label=Profile%20views&color=0e75b6&style=flat" alt="ash250604" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms with Java, also for WebDev, MERN Stack.**
+- 🌱 I’m currently learning **Data Structures and Algorithms with Java, & also WebDev.**
 
 - 👨‍💻 All of my Featured Projects are available at [https://ashutoshrajput-portfolio.vercel.app/](https://ashutoshrajput-portfolio.vercel.app/)
 
