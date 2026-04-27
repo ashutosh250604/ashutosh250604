@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">A Computer Engineering Graduate</h3>
+<h3 align="center">A Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash250604&label=Profile%20views&color=0e75b6&style=flat" alt="ash250604" /> </p>
 
