@@ -16,14 +16,14 @@
 
 ## Now
 
-- Building **[Wault](https://github.com/ashutosh250604/wault-upi)** — a UPI-style wallet: Flask, SQLAlchemy and PostgreSQL behind a React 19 / TypeScript client, shipped as one Docker image so the API and the app share an origin.
-- **IFM Billing Software** is in daily use at International Furniture Mart, Ahmedabad — GST bills, print-ready tax invoices and CA-ready PDF reports on SQLite.
+- Building **[Wault](https://github.com/ashutosh250604/wault-upi)** - a UPI-style wallet: Flask, SQLAlchemy and PostgreSQL behind a React 19 / TypeScript client, shipped as one Docker image so the API and the app share an origin.
+- **IFM Billing Software** is in daily use at International Furniture Mart, Ahmedabad - GST bills, print-ready tax invoices and CA-ready PDF reports on SQLite.
 - Learning **GenAI, DSA with Java, and cloud**.
 - Open to **Software Developer / Backend / Full-Stack** roles.
 
 ## Stack
 
-Honest list — the things I actually reach for, not everything I have ever opened.
+Honest list - the things I actually reach for, not everything I have ever opened.
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -68,7 +68,7 @@ Honest list — the things I actually reach for, not everything I have ever open
 | **[Wault](https://github.com/ashutosh250604/wault-upi)** · [live](https://wault-upi.onrender.com) | UPI-style wallet. PIN verified server-side on every debit, balances held as integer paise moved by atomic updates so two taps at once cannot overdraw an account. 66 pytest tests, daily sending limit enforced in the ledger, statements counted in the Indian calendar day. | Python · Flask · SQLAlchemy · PostgreSQL · React 19 · TypeScript · Docker |
 | **IFM Billing Software** · *private* | Billing and invoice management for International Furniture Mart, Ahmedabad. Sales and purchase bills with GST at 9% CGST + 9% SGST, print-ready tax invoices, CA-ready monthly and quarterly PDF reports, daily self-checking backups. | Python · Flask · SQLite · Jinja2 · JavaScript |
 | **[7–8](https://github.com/ashutosh250604/7-8-strategic-card-game)** · [play](https://7-8-strategic-card-game.vercel.app) | Strategic card game built around the 7–8 deck. Trump declarations, a CPU opponent and live scoring; rules and turn order modelled in plain JavaScript, opens straight in the browser with no build step. | HTML · CSS · JavaScript |
-| **[Portfolio](https://github.com/ashutosh250604/ashutoshrajput-portfolio)** · [live](https://ashutoshrajput-portfolio.vercel.app) | This site. Eight languages, dark mode, static export with no runtime backend, set like a document — numbered sections, hairline rules, monospace metadata, a ⌘K command palette and a card game hidden behind the Konami code. | Next.js · TypeScript · Tailwind CSS |
+| **[Portfolio](https://github.com/ashutosh250604/ashutoshrajput-portfolio)** · [live](https://ashutoshrajput-portfolio.vercel.app) | This site. Eight languages, dark mode, static export with no runtime backend, set like a document - numbered sections, hairline rules, monospace metadata, a ⌘K command palette and a card game hidden behind the Konami code. | Next.js · TypeScript · Tailwind CSS |
 
 The rest of my repositories live on **[GitHub](https://github.com/ashutosh250604?tab=repositories)**.
 
