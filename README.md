@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I%27m+Ashutosh+Rajput;Backend+%26+full-stack+developer;Python+%C2%B7+Flask+%C2%B7+SQL+%C2%B7+React;I+like+shipping+things+that+actually+run" alt="Ashutosh Rajput" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I%27m+Ashutosh+Rajput;Backend+%26+Full-stack+Developer;Python+%C2%B7+Flask+%C2%B7+SQL+%C2%B7+React;I+like+shipping+things+that+actually+run" alt="Ashutosh Rajput" />
 
-**B.Tech Computer Engineering** - Python, Flask & SQL on the server; React & TypeScript on the client.
+**B.Tech Computer Engineering**
 
 <a href="https://ashutoshrajput-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ashutoshrajput-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/ashutoshrajp"><img src="https://img.shields.io/badge/LinkedIn-ashutoshrajp-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
