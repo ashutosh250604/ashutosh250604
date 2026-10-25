@@ -10,7 +10,7 @@
 <a href="https://leetcode.com/u/ashutoshrajp"><img src="https://img.shields.io/badge/LeetCode-ashutoshrajp-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:ashutoshrajput2506@gmail.com"><img src="https://img.shields.io/badge/Email-ashutoshrajput2506-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=ashutosh250604&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ashutosh250604&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
