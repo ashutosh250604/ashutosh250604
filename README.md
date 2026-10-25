@@ -76,12 +76,15 @@ The rest of my repositories live on **[GitHub](https://github.com/ashutosh250604
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashutosh250604&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashutosh250604&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" /> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh250604&layout=compact&theme=aura_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+
 <img height="165" src="https://streak-stats.demolab.com?user=ashutosh250604&theme=aura_dark&hide_border=true" alt="Contribution streak" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh250604&theme=github_dark" alt="Profile summary" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh250604&layout=compact&theme=aura_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh250604/ashutosh250604/output/snake-dark.svg" />
