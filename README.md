@@ -16,7 +16,7 @@
 
 ## Now
 
-- Building **[Wault](https://github.com/ashutosh250604/wault-upi)** - a UPI-style wallet: Flask, SQLAlchemy and PostgreSQL behind a React 19 / TypeScript client, shipped as one Docker image so the API & the app share an origin.
+- Building **[Wault](https://github.com/ashutosh250604/wault-upi)** - a UPI-style wallet: Flask, SQLAlchemy and PostgreSQL behind a React 19 / TypeScript client, shipped as one Docker image so the API and the app share an origin.
 - **IFM Billing Software** is in daily use at International Furniture Mart, Ahmedabad - GST bills, print-ready tax invoices and CA-ready PDF reports on SQLite.
 - Learning **GenAI, DSA with Java, and cloud**.
 - Open to **Software Developer / Backend / Full-Stack** roles.
