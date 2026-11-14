@@ -61,12 +61,14 @@
 
 ## Selected work
 
+<!-- projects:start -->
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[Wault](https://github.com/ashutosh250604/wault-upi)** · [live](https://wault-upi.onrender.com) | UPI-style wallet. PIN verified server-side on every debit, balances held as integer paise moved by atomic updates so two taps at once cannot overdraw an account. 66 pytest tests, daily sending limit enforced in the ledger, statements counted in the Indian calendar day. | Python · Flask · SQLAlchemy · PostgreSQL · React 19 · TypeScript · Docker |
-| **IFM Billing Software** · *private* | Billing and invoice management for International Furniture Mart, Ahmedabad. Sales and purchase bills with GST at 9% CGST + 9% SGST, print-ready tax invoices, CA-ready monthly and quarterly PDF reports, daily self-checking backups. | Python · Flask · SQLite · Jinja2 · JavaScript |
-| **[7–8](https://github.com/ashutosh250604/7-8-strategic-card-game)** · [play](https://7-8-strategic-card-game.vercel.app) | Strategic card game built around the 7–8 deck. Trump declarations, a CPU opponent and live scoring; rules and turn order modelled in plain JavaScript, opens straight in the browser with no build step. | HTML · CSS · JavaScript |
-| **[Portfolio](https://github.com/ashutosh250604/ashutoshrajput-portfolio)** · [live](https://ashutoshrajput-portfolio.vercel.app) | Portfolio. Eight languages, dark mode, static export with no runtime backend, set like a document - numbered sections, hairline rules, monospace metadata, a Ctrl+K / ⌘K command palette and a card game hidden behind the Konami code. | Next.js · TypeScript · Tailwind CSS |
+| **[Wault](https://github.com/ashutosh250604/wault-upi)** · [live](https://wault-upi.onrender.com) | A phone-sized wallet you can actually use: OTP sign-in, a 4-digit payment PIN, your own @okwault UPI ID with a QR code, transfers, money requests and scratch-card rewards. It is not wired to a bank or to UPI itself - money moves only between accounts inside the app. | Python · Flask · PostgreSQL · React 19 · TypeScript · Docker |
+| **IFM Billing Software** · *private* | Billing and invoice management for International Furniture Mart, Ahmedabad - sales and purchase bills, printable tax invoices, and CA-ready PDF reports on a local SQLite database. | Python · Flask · SQLite · Jinja2 · JavaScript |
+| **[7–8](https://github.com/ashutosh250604/7-8-strategic-card-game)** · [live](https://7-8-strategic-card-game.vercel.app) | The Indian trick-taking game, rebuilt for the browser: a 30-card deck, a coin toss for the first trump, an opponent in three difficulties and a log of every move. | HTML · CSS · JavaScript |
+| **[Portfolio](https://github.com/ashutosh250604/ashutoshrajput-portfolio)** · [live](https://ashutoshrajput-portfolio.vercel.app) | This site: rebuilt by hand, exported as flat static HTML, and set like a document - numbered sections, hairline rules and monospace metadata. | Next.js · TypeScript · Tailwind CSS |
+<!-- projects:end -->
 
 The rest of my repositories live on **[GitHub](https://github.com/ashutosh250604?tab=repositories)**.
 
