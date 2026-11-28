@@ -94,7 +94,7 @@ The rest of my repositories live on **[GitHub](https://github.com/ashutosh250604
 
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ A Thought as Random as it Could be!
 
 <div align="center">
 
